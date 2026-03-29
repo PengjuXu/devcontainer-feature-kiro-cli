@@ -1,0 +1,10 @@
+{
+  "id": "kiro-cli",
+  "version": "1.0.0",
+  "name": "Kiro CLI",
+  "description": "Install AWS Kiro CLI",
+  "options": {},
+  "installsAfter": [
+    "ghcr.io/devcontainers/features/common-utils"
+  ]
+}
