@@ -1,6 +1,6 @@
 {
   "id": "kiro-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "name": "Kiro CLI",
   "description": "Install AWS Kiro CLI",
   "options": {},

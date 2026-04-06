@@ -1,10 +1,14 @@
 
-# use in devcontainer.json
+This adds kiro-cli (and symbolic link "kiro") to PATH in your devcontainer.
+
+
+# Add feature to your devcontainer.json
+Example
 ```
 {
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
-    "https://github.com/PengjuXu/devcontainer-feature-kiro-cli@main": {}
+    "ghcr.io/pengjuxu/devcontainer-feature-kiro-cli/kiro-cli:latest": {}
   }
 }
 ```
